@@ -1,6 +1,6 @@
 # Présentation
 
-Ce projet fait partie du challenge de dernière année du master SISE à Lyon 2. Son but était de créer un outil de reconnaissance facial en deux jours.
+Ce projet fait partie du challenge de dernière année du master SISE à Lyon 2. Son but était de créer un outil de reconnaissance facial en deux jours. Nous sommes allé un peu plus loin en proposant une activation avec la voix.
 
 # Installation
 
