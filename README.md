@@ -3,6 +3,7 @@
 Pour installer notre programme :
 
 ●	Ouvrir un terminal anaconda prompt,
+
 ●	se placer dans le dossier où se trouve le fichier téléchargé environment.yml,
 ●	lancer la commande : conda env create -f environment.yml,
 ●	activer votre environnement : conda activate gest
