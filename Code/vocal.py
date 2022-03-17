@@ -36,7 +36,7 @@ def reply(audio):
     engine.runAndWait()
 
 def wish():
-    reply("Bonjour, je m'appelle Natasha, comment puis-je vous aider ?")
+    reply("Bonjour, je m'appelle Robot, comment puis-je vous aider ?")
 
 # Paramètres du micro
 with sr.Microphone() as source:
@@ -62,7 +62,7 @@ def record_audio():
 # Exécution des commandes
 def respond(voice_data):
     global file_exp_status, files, is_awake, path
-    voice_data.replace('natacha','')
+    voice_data.replace('robot','')
     app.eel.addUserMsg(voice_data)
 
     if is_awake==False:
@@ -127,7 +127,7 @@ while True:
         voice_data = record_audio()
 
     # Reconnaissance vocale
-    if 'natacha' in voice_data:
+    if 'robot' in voice_data:
         try:
             respond(voice_data)
         except SystemExit:
