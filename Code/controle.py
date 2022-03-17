@@ -1,7 +1,7 @@
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 import sys
-import webcam4
+import webcam
 
 class Controle:
 
