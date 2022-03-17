@@ -18,9 +18,9 @@ Votre nouvel environnement est créé et activé.
 
 ●	mettez-vous dans le répertoire du fichier dézippé puis :
 
-●	lancer l’application avec la commande : python natacha.py
+●	lancer l’application avec la commande : python vocal.py
 
-●	Pour lancer l’application de commande gestuelle, il suffit de dire ou d’écrire “natacha contrôle” (veuillez attendre 2 secondes après sa phrase de bienvenue).
+●	Pour lancer l’application de commande gestuelle, il suffit de dire ou d’écrire “robot contrôle” (veuillez attendre 2 secondes après sa phrase de bienvenue).
 
 ●	Placez votre main dans l’écran en forme de “tchuss”, votre main et vos doigts devraient être détectés et 3 points roses doivent se former entre votre index et votre majeur. Pour simuler un clic afin d’ouvrir la reconnaissance faciale, il suffit de rapprocher les 2 doigts.
 
@@ -28,7 +28,7 @@ La fenêtre devrait “freezer” en attendant l’ouverture de l’application 
 
 Une fois la reconnaissance faciale ouverte, la fenêtre de l’application de reconnaissance gestuelle devrait pouvoir se fermer facilement en cliquant sur la croix rouge.
 
-Pour arrêter la totalité des processus, il faut revenir sur le chatbot et dire ou écrire “merci natacha”.
+Pour arrêter la totalité des processus, il faut revenir sur le chatbot et dire ou écrire “merci robot”.
 Vous pouvez ensuite fermer toutes les fenêtres.
 
 Vous pourrez aussi retrouver la vidéo enregistrée au même endroit que celui des fichiers dézippés.
